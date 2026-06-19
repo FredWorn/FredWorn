@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👨‍🔧Hello, i'm Fred Worn
 
-<!--
-**FredWorn/FredWorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudent: Automotive Technology | Electronics | Robotics | Mobile Development
 
-Here are some ideas to get you started:
+Passionate about combining automotive technology, electronics, robotics, and software development to create innovative educational and engineering solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔬 Researcher in technical and technological education
+* 🤖 Robotics and STEM education enthusiast
+* ⚙️ Automotive electronics and engine diagnostics specialist
+* 📱 Flutter mobile application developer
+* 🔧 Arduino and embedded systems developer
+* 💡 Interested in automation, control systems, and intelligent vehicle technologies
+
+## 🛠️ Technologies & Tools
+
+### Programming
+
+* C / C++
+* Dart
+* Python
+* Arduino IDE
+
+### Mobile Development
+
+* Flutter
+* React
+
+## 📚 Current Interests
+
+* Educational Robotics
+* Automotive Electronics
+* Embedded Systems
+* Mobile Applications
+* STEM Education
+* Artificial Intelligence in Technical Education
+* Vehicle Diagnostics and Automation
+
+## 🌱 Currently Learning
+
+* Advanced Flutter Development
+* IoT Applications
+* Intelligent Automotive Systems
+* Educational Technology Innovation
+
+## 📈 Featured Projects
+
+🔹 Educational robotics projects using Arduino
+
+🔹 Mobile applications developed with Flutter
+
+🔹 Automotive electronics simulation and diagnostics
+
+🔹 Technical education research and innovation
+
+🔹 Electronic control systems for educational purposes
+
+## 🤝 Collaboration
+
+I'm interested in collaborating on projects related to:
+
+* Automotive Technology
+* Embedded Systems
+* Educational Robotics
+* Mobile Development
+* Technical Education Research
+
+## 📫 Connect With Me
+
+Feel free to explore my repositories and projects.
+
+*"Technology becomes meaningful when it transforms learning into real-world solutions."*
+
