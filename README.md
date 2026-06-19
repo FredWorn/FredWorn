@@ -1,4 +1,4 @@
-## <<<<<<<<<<<<<Hello World, I'm Fred Worn a Aymara Developer :) :) !!! >>>>>>>>>>>>>
+## << Hello World, I'm Fred Worn a Aymara Developer :) :) !!! >>
 
 ### && Automotive Technology | Electronics | Robotics | Mobile Development Estudent...
 
